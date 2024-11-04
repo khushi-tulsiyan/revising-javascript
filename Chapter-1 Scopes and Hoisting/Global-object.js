@@ -1,3 +1,11 @@
+// this is me revising javascript
+//THEORY
+
+/*
+every language has a concept called the GLOBAL object.
+In javscript, if the script executes in a document, the 'window' is a global object.
+only SOME functions and variables are added to this global object, but not ALL.
+*/
 var myName = "Khushi";
 
 console.log(this.myName, "this");
