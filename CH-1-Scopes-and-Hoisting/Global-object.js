@@ -11,7 +11,7 @@ var myName = "Khushi";
 console.log(this.myName, "this");
 console.log(this.myName, "self");
 
-function printAge(){
+function printAge() {
     console.log("my age is 22");
 }
 
